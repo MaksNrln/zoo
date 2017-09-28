@@ -1,0 +1,81 @@
+﻿*
+{
+	margin:0;
+	padding:0;
+}
+
+body
+{
+	padding-top: 70px;
+}
+.nav>li>a
+{
+	padding: 15px 10px;
+}
+.navbar-toggle
+{
+	margin-top: 18px!important;
+}
+.navbar-brand
+{
+	height:70px;
+	padding:5px 5px;
+}
+.navbar-nav>li>a
+{
+	line-height: 35px;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form
+{
+	font-size:16px;
+}
+img
+{
+max-height:100%;
+max-width:100%;
+}
+#about
+{
+	margin-top: 30px;
+	background-image: url("../images/background.jpg");
+}
+#about img
+{
+padding:10px;
+}
+#info-about
+{
+	margin-top: 50%;
+}
+#prices
+{
+	background-image: url("../images/background-prices.jpg");
+}
+.myCard
+{
+	background-color: white;
+	margin-bottom: 20px;
+	border-radius: 5px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.myCard .card-info
+{
+	padding:10px;
+	font-size:18px;
+	height: 200px;
+}
+.myCard img
+{
+	height:280px;
+	border-radius: 5px 5px 0 0;
+}
+#social span
+{
+	margin-right: 5px;
+}
+#footer-info
+{
+	float:right;
+	display:inline-block;
+	padding:20px;
+}

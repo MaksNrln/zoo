@@ -1,0 +1,50 @@
+﻿@media (max-width: 767px)
+{
+#header h1
+{
+	font-size:1.8rem;
+}
+#text 
+{
+	background-image: url("../images/turtle.jpg");
+	background-size: 30%;
+	background-repeat: no-repeat;
+	background-position: right bottom; 
+	text-align: center;
+
+}
+#footer
+{
+	text-align: center;
+}
+#footer-info
+{
+	float: none;
+}
+
+}
+
+@media (min-width:768) and (max-width: 992px)
+{
+#info-about
+{
+margin: 0;	
+margin-top: 10px;
+}
+.myCard img
+{
+height:200px;
+}
+}
+
+@media (width:992px)
+{
+.myCard img
+{
+	height: 242px;
+}	
+#info-about
+{
+	margin-top: 40%;
+}
+}
